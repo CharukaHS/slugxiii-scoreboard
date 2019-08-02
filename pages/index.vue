@@ -1,5 +1,12 @@
 <template>
-  <div>
-    <h1>Index</h1>
-  </div>
+  <Upcoming />
 </template>
+
+<script>
+  import Upcoming from "~/components/UpComing/Index"
+  export default {
+    components: {
+      Upcoming
+    }
+  }
+</script>

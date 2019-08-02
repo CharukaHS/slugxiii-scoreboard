@@ -3,7 +3,7 @@
     <div class="w-1/4 overflow-y-auto">
       <Menu />
     </div>
-    <div class="w-3/4 bg-gray-100 overflow-y-auto">
+    <div class="w-3/4 bg-gray-100 overflow-y-auto overflow-x-hidden">
       <nuxt />
     </div>
   </div>
